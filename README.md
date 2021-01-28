@@ -18,6 +18,7 @@ Shinhancard_data_analysis_and_recommend_Characteristic
 
 ### 프로토 타입
 -https://kang9366.github.io/bigcontest/POC%20html/home.html
+-![그레이하운드](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%95%98%EC%9A%B4%EB%93%9C.png?raw=true)
 
 ### 의의
 - python을 배운지 얼마 안되 서툰 실력으로 프로젝트를 시행함

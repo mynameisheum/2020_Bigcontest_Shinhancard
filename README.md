@@ -10,6 +10,12 @@ Shinhancard_data_analysis_and_recommend_Characteristic
 - (ex.적절한 전처리후 남성 기준 데이터로 Multi-Dimensional-Scaling(MDS)를 통해 cluster가 잘 분포되었음을 확인)
 -![남성cluster](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EB%82%A8%EC%84%B1%EA%B8%B0%EC%A4%80-clustering%20by%20Multi-Dimensional%20Scaling(MDS).png?raw=true)
 
+### 데이터
+- 신한매출데이터의 columns
+-(STD_DD(날짜), GU_CD(구 코드),DONG_CD(동 코드),MCT-cAT_CD(품목코드),SEX_CD(성별코드), AGE_CD(나이코드),USE_CNT(품목사용횟수 코드),USE_AMT(총가격 코드)
+- 2537754개의 row data
+- (개인정보 보호로 인해 실제 데이터의 head(100)만 data를 업로드 해놓음)
+
 ### 프로토 타입
 -https://kang9366.github.io/bigcontest/POC%20html/home.html
 

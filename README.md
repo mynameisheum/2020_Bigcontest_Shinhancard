@@ -14,11 +14,12 @@ Shinhancard_data_analysis_and_recommend_Characteristic
 - 신한매출데이터의 columns
 -(STD_DD(날짜), GU_CD(구 코드),DONG_CD(동 코드),MCT-cAT_CD(품목코드),SEX_CD(성별코드), AGE_CD(나이코드),USE_CNT(품목사용횟수 코드),USE_AMT(총가격 코드)
 - 2537754개의 row data
-- (개인정보 보호로 인해 실제 데이터의 head(100)만 data를 업로드 해놓음)
+-(개인정보 보호로 인해 실제 데이터의 head(100)만 data를 업로드 해놓음)
 
 ### 프로토 타입
 -https://kang9366.github.io/bigcontest/POC%20html/home.html
--![그레이하운드](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%95%98%EC%9A%B4%EB%93%9C.png?raw=true)
+- (예시)
+![그레이하운드](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%95%98%EC%9A%B4%EB%93%9C.png?raw=true)
 
 ### 의의
 - python을 배운지 얼마 안되 서툰 실력으로 프로젝트를 시행함

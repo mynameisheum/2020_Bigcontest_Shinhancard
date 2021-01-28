@@ -7,7 +7,7 @@ Shinhancard_data_analysis_and_recommend_Characteristic
 - 제시된 5가지 데이터중 여러가지 feature를(columns) 골고루 가진 신한카드의 매출데이터를 선택 
 - 신한카드 매출데이터를 통해 코로나 이전과 이후의 차이를 비교
 - 특히 features중 MCT_CAT_CD(품목코드)를 통해 SEX_CD(성별), AGE_CD(나이),등을 통해 적절히 clustering하여 선호도 분류
-
+- (ex.적절한 전처리후 남성 기준 데이터로 Multi-Dimensional-Scaling(MDS)를 통해 cluster가 잘 분포되었음을 확인)
 -![남성cluster](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EB%82%A8%EC%84%B1%EA%B8%B0%EC%A4%80-clustering%20by%20Multi-Dimensional%20Scaling(MDS).png?raw=true)
 
 ### 프로토 타입

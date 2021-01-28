@@ -8,8 +8,10 @@ Shinhancard_data_analysis_and_recommend_Characteristic
 - 실제 신한카드 매출데이터를 통해 코로나 이전과 이후의 차이를 비교
 - 특히 features중 MCT_CAT_CD(품목코드)를 통해 SEX_CD(성별), AGE_CD(나이),등을 통해 적절한 전처리 후 clustering하여 선호도 분류
 - 그중 MCT_CAT_CD엔 23개로 분류된 품목코드를 상관관계를 분석하여 p_value 0.05기준, 상관계수가 0.5 이상인 품목코드를 합쳐 자체적 차원축소 시도(전처리과정중..)
+![남성 품목 상관계수](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EB%82%A8%EC%84%B1%EA%B8%B0%EC%A4%80%20%ED%92%88%EB%AA%A9%EC%BD%94%EB%93%9C%EB%B3%84%20%EC%83%81%EA%B4%80%EA%B3%84%EC%88%98%20%ED%99%95%EC%9D%B8.png?raw=true)
+
 - (ex.적절한 전처리후 남성 기준 데이터로 Multi-Dimensional-Scaling(MDS)를 통해 cluster가 잘 분포되었음을 확인)
--![남성cluster](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EB%82%A8%EC%84%B1%EA%B8%B0%EC%A4%80-clustering%20by%20Multi-Dimensional%20Scaling(MDS).png?raw=true)
+![남성cluster](https://github.com/mynameisheum/2020_Bigcontest_Shinhancard/blob/main/picture%20storage/%EB%82%A8%EC%84%B1%EA%B8%B0%EC%A4%80-clustering%20by%20Multi-Dimensional%20Scaling(MDS).png?raw=true)
 
 ### 데이터
 - 신한매출데이터의 columns
